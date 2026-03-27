@@ -1,0 +1,5 @@
+vendor/
+.env
+*.log
+data/uploaded_*
+data/current_*
