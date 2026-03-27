@@ -1,0 +1,7 @@
+vendor/
+storage/uploads/*
+!storage/uploads/.gitkeep
+*.tar.gz
+.env
+.DS_Store
+Thumbs.db
